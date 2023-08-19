@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Name Display",
+    "version": "1.0",
+    "description": "Displays the current tab's name",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
